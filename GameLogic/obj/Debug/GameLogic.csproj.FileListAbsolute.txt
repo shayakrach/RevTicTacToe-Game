@@ -1,0 +1,7 @@
+C:\MyProjects\HW\Ex5\B21 Ex05 OdeliaTafara 316568088 ShayRachmany 208387852\GameLogic\bin\Debug\GameLogic.dll.config
+C:\MyProjects\HW\Ex5\B21 Ex05 OdeliaTafara 316568088 ShayRachmany 208387852\GameLogic\bin\Debug\GameLogic.dll
+C:\MyProjects\HW\Ex5\B21 Ex05 OdeliaTafara 316568088 ShayRachmany 208387852\GameLogic\bin\Debug\GameLogic.pdb
+C:\MyProjects\HW\Ex5\B21 Ex05 OdeliaTafara 316568088 ShayRachmany 208387852\GameLogic\obj\Debug\GameLogic.csprojAssemblyReference.cache
+C:\MyProjects\HW\Ex5\B21 Ex05 OdeliaTafara 316568088 ShayRachmany 208387852\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\MyProjects\HW\Ex5\B21 Ex05 OdeliaTafara 316568088 ShayRachmany 208387852\GameLogic\obj\Debug\GameLogic.dll
+C:\MyProjects\HW\Ex5\B21 Ex05 OdeliaTafara 316568088 ShayRachmany 208387852\GameLogic\obj\Debug\GameLogic.pdb

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "GameLogic\GameLogic.csproj", "{9C1306C9-2638-478B-A5E5-E0135946F613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5.WindowsGUI", "Ex5.WindowsGUI\Ex5.WindowsGUI.csproj", "{CEFC46CA-F169-410D-A884-B47764C6AE85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DAC8406-2265-481D-B6C4-369AAB90632C}"
+	ProjectSection(SolutionItems) = preProject
+		ExCheckingReport.txt = ExCheckingReport.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1306C9-2638-478B-A5E5-E0135946F613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1306C9-2638-478B-A5E5-E0135946F613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1306C9-2638-478B-A5E5-E0135946F613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1306C9-2638-478B-A5E5-E0135946F613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEFC46CA-F169-410D-A884-B47764C6AE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFC46CA-F169-410D-A884-B47764C6AE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFC46CA-F169-410D-A884-B47764C6AE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFC46CA-F169-410D-A884-B47764C6AE85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {476A087A-7270-491B-8878-2333BBDF6BE0}
+	EndGlobalSection
+EndGlobal
