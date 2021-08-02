@@ -11,3 +11,16 @@ C:\MyProjects\HW\Ex5\B21 Ex05 OdeliaTafara 316568088 ShayRachmany 208387852\Ex5.
 C:\MyProjects\HW\Ex5\B21 Ex05 OdeliaTafara 316568088 ShayRachmany 208387852\Ex5.WindowsGUI\obj\Debug\Ex5.WindowsGUI.csproj.CopyComplete
 C:\MyProjects\HW\Ex5\B21 Ex05 OdeliaTafara 316568088 ShayRachmany 208387852\Ex5.WindowsGUI\obj\Debug\Ex5.WindowsGUI.exe
 C:\MyProjects\HW\Ex5\B21 Ex05 OdeliaTafara 316568088 ShayRachmany 208387852\Ex5.WindowsGUI\obj\Debug\Ex5.WindowsGUI.pdb
+C:\MyProjects\HW\Ex5\RevTicTacToe\Ex5.WindowsGUI\bin\Debug\Ex5.WindowsGUI.exe.config
+C:\MyProjects\HW\Ex5\RevTicTacToe\Ex5.WindowsGUI\bin\Debug\Ex5.WindowsGUI.exe
+C:\MyProjects\HW\Ex5\RevTicTacToe\Ex5.WindowsGUI\bin\Debug\Ex5.WindowsGUI.pdb
+C:\MyProjects\HW\Ex5\RevTicTacToe\Ex5.WindowsGUI\bin\Debug\GameLogic.dll
+C:\MyProjects\HW\Ex5\RevTicTacToe\Ex5.WindowsGUI\bin\Debug\GameLogic.pdb
+C:\MyProjects\HW\Ex5\RevTicTacToe\Ex5.WindowsGUI\bin\Debug\GameLogic.dll.config
+C:\MyProjects\HW\Ex5\RevTicTacToe\Ex5.WindowsGUI\obj\Debug\Ex5.WindowsGUI.csprojAssemblyReference.cache
+C:\MyProjects\HW\Ex5\RevTicTacToe\Ex5.WindowsGUI\obj\Debug\Ex5.WindowsGUI.FormSettings.resources
+C:\MyProjects\HW\Ex5\RevTicTacToe\Ex5.WindowsGUI\obj\Debug\Ex5.WindowsGUI.csproj.GenerateResource.cache
+C:\MyProjects\HW\Ex5\RevTicTacToe\Ex5.WindowsGUI\obj\Debug\Ex5.WindowsGUI.csproj.CoreCompileInputs.cache
+C:\MyProjects\HW\Ex5\RevTicTacToe\Ex5.WindowsGUI\obj\Debug\Ex5.WindowsGUI.csproj.CopyComplete
+C:\MyProjects\HW\Ex5\RevTicTacToe\Ex5.WindowsGUI\obj\Debug\Ex5.WindowsGUI.exe
+C:\MyProjects\HW\Ex5\RevTicTacToe\Ex5.WindowsGUI\obj\Debug\Ex5.WindowsGUI.pdb
